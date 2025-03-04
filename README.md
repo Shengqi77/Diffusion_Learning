@@ -16,3 +16,5 @@ Run the inference_with_ddpm_CFG.py for generating the images by denoising with d
 
 The training dataset is MNIST.
 
+https://github.com/Shengqi77/Diffusion_Learning/blob/main/DDPM_CFG_code/diffusion_grid.gif
+
